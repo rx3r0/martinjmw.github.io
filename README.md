@@ -1,3 +1,3 @@
-# R X 3 R 0
+# The static site page for this repository
 
 This is not the README file for the site you are looking for ...
